@@ -1,0 +1,13 @@
+{
+	"name": "@tayeq/99121-npm",
+	"version": "1.0.0",
+	"description": "zaliczenie WSB",
+	"repository": "tayeq/99121",
+	"main": "index.js",
+	"keywords": [
+		"WSB",
+		"npm",
+		"package",
+		"exam"
+	]
+}
